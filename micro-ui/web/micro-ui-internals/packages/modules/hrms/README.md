@@ -11,7 +11,7 @@ npm install --save @selco/digit-ui-module-hrms
 ## Limitation
 
 ```bash
-This Package is more specific to DIGIT-UI's can be used across mission's
+This Package is more specific to Selco-UI's can be used across mission's
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ frontend/micro-ui/web/package.json
 ```
 
 ```json
-"@selco/digit-ui-module-hrms":"^1.5.0",
+"@selco/digit-ui-module-hrms":"^1.0.0",
 ```
 
 then navigate to App.js
@@ -72,12 +72,8 @@ const initDigitUI = () => {
 
 Documentation Site (https://core.digit.org/guides/developer-guide/ui-developer-guide/digit-ui)
 
-## Maintainer
 
-- [jagankumar-egov](https://www.github.com/jagankumar-egov)
-
-
-### Published from DIGIT Frontend 
-DIGIT Frontend Repo (https://github.com/egovernments/Digit-Frontend/tree/master)
+### Published from Selco Frontend 
+Selco Frontend Repo (https://github.com/selco-git/Frontend)
 
 ![Logo](https://s3.ap-south-1.amazonaws.com/works-dev-asset/mseva-white-logo.png)
